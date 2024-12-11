@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9-8=5s--q#gymq($g!4=#$e0myf@+=^y*s0gm@^v*z78&u5w7t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-ender805-djangoblog-m5fdpk79hl7.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ["8000-ender805-djangoblog-m5fdpk79hl7.ws.codeinstitute-ide.net"]
 
 
 # Application definition
